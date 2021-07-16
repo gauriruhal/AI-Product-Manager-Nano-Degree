@@ -18,13 +18,6 @@ In this project, we need to build a labeled dataset that distinguishes between h
 * Help flag serious cases,
 * Quickly identify healthy cases,
 * And, generally, act as a diagnostic aid for doctors.
-## The Four Parts of the Project
-We will train four different models using four variants of the pneumonia dataset.The dataset contains childrens' chest x-ray images, and that they are classified into two classes, "normal" and "pneumonia". The following cases describe the steps we must take to create each model.
-
-### Case 1: Create a binary classifier to detect pneumonia using chest x-rays
-### Case 2: Create an unbalanced binary classifier
-### Case 3: Create a binary classifier with dirty data
-### Case 4: Create a three-class model with the classes “normal”, “bacterial pneumonia”, and “viral pneumonia”
 
 # 3. Capstone
 Developed a business proposal for an AI product called "Automatic License Plate Recognition".
