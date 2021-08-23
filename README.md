@@ -1,4 +1,4 @@
-# AI-Product-Manager-ND
+# AI-Product-Manager-Nano-Degree
 This repository contains work that I did as part of AI Product Manager Nano degree program on Udacity.
 
 
