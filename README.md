@@ -20,4 +20,4 @@ In this project, we need to build a labeled dataset that distinguishes between h
 * And, generally, act as a diagnostic aid for doctors.
 
 # 3. Capstone
-Developed a business proposal for an AI product.
+Developed a business proposal using AI " Personal Dietician Using AI".
